@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 fe5db52215e551771fe6662591edcacd727de0d9 wegodev <danielhsi.dev@gmail.com> 1582595113 +0900	fetch --progress seL4 --tags +refs/heads/*:refs/remotes/seL4/* +refs/heads/master:refs/remotes/seL4/master +refs/tags/*:refs/tags/*: storing head

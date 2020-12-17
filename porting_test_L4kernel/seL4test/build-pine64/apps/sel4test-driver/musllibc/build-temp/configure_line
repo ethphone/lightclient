@@ -1,0 +1,1 @@
+--srcdir=/home/wego/seL4test/projects/musllibc --prefix=/home/wego/seL4test/build-pine64/apps/sel4test-driver/musllibc/build-temp/stage  --target=aarch64 --enable-warnings --disable-shared --enable-static

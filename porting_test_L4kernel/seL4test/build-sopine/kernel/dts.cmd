@@ -1,0 +1,1 @@
+regen /home/wego/seL4test/build-sopine/kernel/kernel.dtb /home/wego/seL4test/kernel/tools/dts/rockpro64.dts;/home/wego/seL4test/kernel/src/plat/rockpro64/overlay-rockpro64.dts

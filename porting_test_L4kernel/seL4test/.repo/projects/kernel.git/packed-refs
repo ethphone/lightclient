@@ -1,0 +1,50 @@
+# pack-refs with: peeled fully-peeled sorted 
+7798b4767dcb7bcd3699f191f685435cfa645518 refs/remotes/seL4/alyons-aarch64-addr
+2bcd77458ed0f7c9face6c7764e877441e5ea3d1 refs/remotes/seL4/aos
+0d60f6f298cd366beb55c004614f9c19a675b7f0 refs/remotes/seL4/kent/gicv3
+2954c0e95f16a7184f2791d9c5909e90074b9a27 refs/remotes/seL4/kent/imx8
+8234026c1fb827abee75731b2575ddb741687eff refs/remotes/seL4/kent/tpidrro_el0
+ff7d5556df2f82796a8a17af92fd83905fed252d refs/remotes/seL4/master
+aea35367667f31603a388b9669976e1158353b11 refs/remotes/seL4/nomadeel/fix_printf_typo
+85c2f1d59582c2ddaa1615a7240cffbad55e8f0e refs/remotes/seL4/riscv_hyp
+6637be827dd07f06a0b516b4af64a379c4526701 refs/remotes/seL4/xu4_vmm_wip
+7f2fc76ce2222ce23f4a66ec2d34516146125015 refs/tags/0.0.1-rt-dev
+b0797ce40b0e42aaada70805754341c891bd7985 refs/tags/1.0.0-rt-dev
+e88fe4e356d3f1858dd142bf2da8ae393824a0c1 refs/tags/1.0.3
+5f30512da2237a065d6dfb1eae14c9e42ca20156 refs/tags/1.0.4
+5c7f7844a6225acd0865d4c063ddac4c1a518963 refs/tags/10.0.0
+7a19c37212cec5839efba7589586b0e61767870a refs/tags/10.0.0-mcs
+a3c341adc4ee61cdfe68d64245c71ca9b171dd15 refs/tags/10.1.0
+57e5417ce24ad6a37912dda47495f02b8c7eb60f refs/tags/10.1.1
+f88d58aa8dc599e372a6138a29df19e456eacf74 refs/tags/10.1.1-mcs
+ff216025041bfab6a45080eaabda2ff4af5db3e9 refs/tags/11.0.0
+2a4ee9ba912c195f526163dca27d48e06d8a81f8 refs/tags/2.0.0
+0115ad1d0d7a871d637f8ceb79e37b46f9981249 refs/tags/2.1.0
+634d4681a88bdb43fa1e1f8fd8c330f43f6d6712 refs/tags/3.0.0
+94e13b7e605676b4d5bd61497d38f0858cf2bb2f refs/tags/3.0.1
+8150e914c377bb2d94796c6857d08f64973a7295 refs/tags/3.1.0
+e70cd7613bb3aed71d3df58c72146cc44a60190e refs/tags/3.2.0
+7d1df6af0027e87a66351d01804b00eb2637b63e refs/tags/4.0.0
+5453060b9530567d2709d0815c1b114cb1a2be6a refs/tags/5.0.0
+598c9d1efc2b10c475a92fd5775d8280c766b77f refs/tags/5.1.0
+3695232f9603af60d56f97072082d90f30e98b0e refs/tags/5.2.0
+6c0dff0affd45bcf57c0f6f14f3b0c0d6df10ddb refs/tags/5.2.0-mcs
+8564ace4dfb622ec69e0f7d762ebfbc8552ec918 refs/tags/6.0.0
+220ed968b1b1569586b26f297f37a8f7e7d7b961 refs/tags/7.0.0
+396315f3bfb2592e2fe61eaaeee916b626f26e68 refs/tags/8.0.0
+f58d22af8b6ce8bfccaa4bac393a31cad670e7c1 refs/tags/9.0.0
+b285a262751a74efe5a0521937f4fcc18a612349 refs/tags/9.0.0-mcs
+0dd40b6c43a290173ea7782b97afbbbddfa23b36 refs/tags/9.0.1
+93aa7e3264041c8aeaf53af2d523ac59a3a37ef1 refs/tags/API-experimental-01-03--release-2014-07-29
+^50e219ecb96933369345f0594c3336a37d39521c
+764a3c8dfbb5f2a09afe18e3bfb449799a55f4a9 refs/tags/API-experimental-01-03--release-2014-08-10
+^2213b9fe0facf3e3ceabe4adda581bed515be163
+2315f4ce797b8bd0a8fd9efc5ed92d02d4a4baa6 refs/tags/API-master-01-03--release-2014-07-29
+^9711f8134f1e4b48010b1168f4b1acd94f4c2ee4
+4961cb66a484b4d3a436ac72a6fc286b23912e52 refs/tags/API-master-01-03--release-2014-08-10
+^e88fe4e356d3f1858dd142bf2da8ae393824a0c1
+e38288f805a434faf9052ecf96dd12838f8bf2bd refs/tags/arm_hyp-deprecated
+acba4755fb7ce89c80568fd90d7fda9887ac8db1 refs/tags/experimental-deprecated
+986cd9805f6327e388ce0056592f5a0dcd93f922 refs/tags/mcs-tutorials
+8a4227b5759b85809abac29fb2dae9b77f55117f refs/tags/rt-deprecated
+ec0a41fed7d7f937b57bd2ccea562d886196e2b0 refs/tags/x86_64-deprecated

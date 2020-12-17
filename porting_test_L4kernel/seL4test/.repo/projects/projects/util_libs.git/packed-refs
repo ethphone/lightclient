@@ -1,0 +1,24 @@
+# pack-refs with: peeled fully-peeled sorted 
+9e249f940b84a9c803f79d34fbcfc5c98e722bfc refs/remotes/seL4/10.0.x-compatible
+2c4524ce84652960cda127a8b0ae6690022988ee refs/remotes/seL4/10.1.x-compatible
+4e14660568aa82b62402a4bdfea234f9dd0c3140 refs/remotes/seL4/11.0.x-compatible
+7e306a51ecc7bf62edb68aa237223dc0c92c0f72 refs/remotes/seL4/2.0.x-compatible
+f8990f07e5f609189546a0690f71b6af9b2e2507 refs/remotes/seL4/2.1.x-compatible
+aa74fc9067b039734b8ff2e76b04e65b28515d10 refs/remotes/seL4/3.0.x-compatible
+755a5c6fd82ff8cc29f5c5b11a3f16d2e8047df7 refs/remotes/seL4/3.1.x-compatible
+38d1eb828e8deb39e69423af46a02c57b1508ec4 refs/remotes/seL4/3.2.x-compatible
+b8787e8db4c73a44c1efa3dc48e3a494e6aa924c refs/remotes/seL4/4.0.x-compatible
+1139f4facb089861aea3661d9be342262d1d6139 refs/remotes/seL4/5.0.x-compatible
+accfcac9308f84535d842bbfe2b321ac1374e2c5 refs/remotes/seL4/5.1.x-compatible
+131c0ba4f7d7da631d1788cdb37ec7943398e993 refs/remotes/seL4/5.2.x-compatible
+7e373939d0dbb5951948a76ba3089d9ceaec3cde refs/remotes/seL4/5.2.x-mcs-compatible
+c7846bf2995629a3781f0e2f65f5a8c5520b5775 refs/remotes/seL4/6.0.x-compatible
+74b77a56cf4b41dcecce331f0e8457e0eb4ff42f refs/remotes/seL4/7.0.x-compatible
+48a144dd901459fdf263836569e017cf4da8d700 refs/remotes/seL4/8.0.x-compatible
+f667cfa2f8aae95db65a991ba7dfedf75cb6e46e refs/remotes/seL4/9.0.x-compatible
+6e9c6e0d92f163078aef1d28eaa53f5811b801e1 refs/remotes/seL4/alyons-ppi
+8301834bb62a9493a42bbc87adce2241ae23b787 refs/remotes/seL4/kent/fix-style
+ab363529c7828fea909dd5906a20451be4df583f refs/remotes/seL4/kent/imx8
+1fed64d11797fc5e2c210921652b95776ad20da6 refs/remotes/seL4/kent/rockpro64
+b0acb4800f8fd4c1466f3181a99a1c8e324b972e refs/remotes/seL4/master
+697ffd536988f044ad09a309a7394bd1ddfa896d refs/remotes/seL4/nomadeel/fdt-fix

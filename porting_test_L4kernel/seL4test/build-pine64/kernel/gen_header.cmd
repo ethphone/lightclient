@@ -1,0 +1,1 @@
+regen /home/wego/seL4test/build-pine64/kernel/gen_headers/plat/machine/devices_gen.h /home/wego/seL4test/build-pine64/kernel/kernel.dtb;/home/wego/seL4test/kernel/tools/hardware.yml;/home/wego/seL4test/kernel/tools/hardware_schema.yml;/home/wego/seL4test/kernel/tools/hardware_gen.py

@@ -1,0 +1,2 @@
+#!/bin/sh
+exec "${REALGCC:-/usr/bin/aarch64-linux-gnu-gcc}" "$@" -specs "/home/wego/seL4test/build-pine64/apps/sel4test-driver/musllibc/build-temp/stage/lib/musl-gcc.specs"

@@ -1,0 +1,33 @@
+SECTIONS
+{
+    .interp : { *(.interp) }
+}
+INSERT BEFORE .hash;
+SECTIONS
+{
+    . = 0x10a2a000;
+    _text = .;
+    .start :
+    {
+        *(.text.start)
+    }
+}
+INSERT BEFORE .text;
+SECTIONS
+{
+    .bss : {
+        _bss = .;
+        *(.bss)
+        _bss_end = .;
+    }
+}
+SECTIONS
+{
+    . = ALIGN(8);
+    ._archive_cpio : {
+        _archive_start = .;
+        *(._archive_cpio)
+        _archive_end = .;
+    }
+}
+INSERT AFTER .eh_frame;

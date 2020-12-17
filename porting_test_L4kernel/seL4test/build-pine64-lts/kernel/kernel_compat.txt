@@ -1,0 +1,1 @@
+arm,armv8-timer;arm,gic-v3;snps,dw-apb-uart;

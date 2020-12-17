@@ -1,0 +1,1 @@
+#define CONFIG_HAVE_TIMER 1
