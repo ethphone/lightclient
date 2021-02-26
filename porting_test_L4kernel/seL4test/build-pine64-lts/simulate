@@ -1,2 +1,0 @@
-#!/bin/sh
-echo Unsupported platform or architecture for simulation && exit 1

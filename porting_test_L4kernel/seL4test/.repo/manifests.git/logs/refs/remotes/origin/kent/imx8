@@ -1,1 +1,0 @@
-0000000000000000000000000000000000000000 4b2f3d765d58d3516675238ed79d64505ce7d700 wego <wego@wego.(none)> 1582595035 +0900	fetch --progress origin --tags +refs/heads/*:refs/remotes/origin/* +refs/heads/master:refs/remotes/origin/master +refs/tags/*:refs/tags/*: storing head

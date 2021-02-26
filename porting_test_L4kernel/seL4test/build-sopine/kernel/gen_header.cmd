@@ -1,1 +1,0 @@
-regen /home/wego/seL4test/build-sopine/kernel/gen_headers/plat/machine/devices_gen.h /home/wego/seL4test/build-sopine/kernel/kernel.dtb;/home/wego/seL4test/kernel/tools/hardware.yml;/home/wego/seL4test/kernel/tools/hardware_schema.yml;/home/wego/seL4test/kernel/tools/hardware_gen.py

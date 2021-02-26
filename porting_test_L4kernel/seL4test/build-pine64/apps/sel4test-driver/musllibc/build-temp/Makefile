@@ -1,1 +1,0 @@
-/home/wego/seL4test/projects/musllibc/Makefile

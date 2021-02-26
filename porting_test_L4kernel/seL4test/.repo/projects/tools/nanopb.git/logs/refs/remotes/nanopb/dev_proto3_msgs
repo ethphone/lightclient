@@ -1,1 +1,0 @@
-0000000000000000000000000000000000000000 5acce341c37e7364bdb99f18c598966287f055db wegodev <danielhsi.dev@gmail.com> 1582595110 +0900	fetch --progress nanopb --tags +refs/heads/*:refs/remotes/nanopb/* +refs/heads/master:refs/remotes/nanopb/master +refs/tags/*:refs/tags/*: storing head

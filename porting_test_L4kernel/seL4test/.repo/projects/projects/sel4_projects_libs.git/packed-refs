@@ -1,8 +1,0 @@
-# pack-refs with: peeled fully-peeled sorted 
-0a5e476e26fa03c3baa09acfee228ab7b4e91f18 refs/remotes/sel4proj/10.0.x-compatible
-f594a119acb996c5fa07ecbf1678460b40395127 refs/remotes/sel4proj/10.1.x-compatible
-33cf99b5ebd36c0ecd2032a4b76f6fb992ad1016 refs/remotes/sel4proj/11.0.x-compatible
-802f572022372b348bb233cf8047075b6f80038e refs/remotes/sel4proj/8.0.x-compatible
-0a5e476e26fa03c3baa09acfee228ab7b4e91f18 refs/remotes/sel4proj/9.0.x-compatible
-9729d5743a3093b1bbcdf29105eed2683030244c refs/remotes/sel4proj/master
-f9327377f9e2defcefae31c69b542af6e9081be0 refs/remotes/sel4proj/xu4_vmm_wip

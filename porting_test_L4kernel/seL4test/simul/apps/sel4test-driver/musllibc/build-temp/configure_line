@@ -1,1 +1,0 @@
---srcdir=/home/wego/seL4test/projects/musllibc --prefix=/home/wego/seL4test/simul/apps/sel4test-driver/musllibc/build-temp/stage  --target=x86_64 --enable-warnings --disable-shared --enable-static

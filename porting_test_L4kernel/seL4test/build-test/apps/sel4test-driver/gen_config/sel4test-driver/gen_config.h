@@ -1,2 +1,0 @@
-#define CONFIG_HAVE_TIMER 1
-#define CONFIG_HAVE_CACHE 1

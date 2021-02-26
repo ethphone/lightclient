@@ -1,2 +1,0 @@
-#!/bin/sh
-exec "${REALGCC:-/usr/bin/gcc}" "$@" -specs "/home/wego/seL4test/simul/apps/sel4test-driver/musllibc/build-temp/stage/lib/musl-gcc.specs"
